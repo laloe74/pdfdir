@@ -143,7 +143,7 @@ options:
 
 打包程序
 
-`pyinstaller.py -F run_gui.py -n "PDFdir.exe"  --noconsole`
+`pyinstaller -F run_gui.py -n "PDFdir" --noconsole`
 
 
 ### 目录文本格式
